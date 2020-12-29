@@ -2,7 +2,7 @@
 
 ![ML](https://img.shields.io/badge/ML-Classification-blue.svg) 
 
-![logo](Snips/Logo.jpg)
+![logo](Snips/Logo.jpeg)
 
 ## Business Objectives:
 
